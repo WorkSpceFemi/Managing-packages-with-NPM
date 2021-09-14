@@ -1,6 +1,7 @@
 {
 	"author": "Femi-Francis",
 	"description":"Add a Description to Your package.json",
+	"keywords": [ "freecodecamp", "related", "words" ],
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
