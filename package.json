@@ -1,5 +1,6 @@
 {
 	"author": "Femi-Francis",
+	"description":"Add a Description to Your package.json",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
