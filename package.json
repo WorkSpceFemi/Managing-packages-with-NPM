@@ -3,6 +3,7 @@
 	"description":"Add a Description to Your package.json",
 	"keywords": [ "freecodecamp", "related", "words" ],
 	"license": "MIT",
+	"version": "1.2.0",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
